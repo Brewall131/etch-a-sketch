@@ -1,1 +1,1 @@
-# sketchpad
+This is the sketchpad project 
