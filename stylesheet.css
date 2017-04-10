@@ -1,0 +1,23 @@
+.form-control {
+	display:  inline-block;
+	width:  400px;
+}
+
+#tileContainer {
+	display: block;
+	line-height: 0;
+	width: 962px;
+	height: 962px;
+	margin:  0;
+	padding: 0;
+	border: 1px solid black;
+}
+
+.tile {
+	display:  inline-block;
+	border:  1px solid gray;
+	margin:  0;
+	padding: 0;
+	height: 50px;
+	
+}
